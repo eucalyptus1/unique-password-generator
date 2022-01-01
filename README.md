@@ -11,7 +11,7 @@ To randomly generate a password based on the user's choice of Uppercase, Lowerca
 *Javascript
 
 ## Website
-https://eucalyptus1.github.io/horiseon-challenge/
+https://eucalyptus1.github.io/unique-password-generator/
 
 ## Contribution
 Made by James
